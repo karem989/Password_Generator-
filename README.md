@@ -1,5 +1,3 @@
-Password Generator (PassMaster)
-(Note: Replace this link with a direct link to a screenshot of your program after you upload it to GitHub, or delete this line if you won't include a screenshot.)
 
 Description
 PassMaster is a robust and user-friendly password generator with a Graphical User Interface (GUI) built using Python's Tkinter library. It allows you to create highly random and secure passwords with full flexibility to meet your security needs.
